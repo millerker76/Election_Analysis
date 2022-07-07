@@ -1,7 +1,7 @@
 #   Election_Analysis
 ##  Purpose of the Analysis
 
-A Colorado election review commission is performing an election audit and has requested out help with analyzing the data.   A file of unsummarized election data was presented in a .csv file.  Specifically, they've requested this data: 
+A Colorado election review commission requested our help with analyzing election results data for the election audit that they are undertaking.   The election results data set to be analyzed was provided to us in a .csv file.  Specifically, they've requested these analyses: 
 * The voter turnout for each county
 * The percentage of votes from each county out of the total count
 * The county with the highest turnout
