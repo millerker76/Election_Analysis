@@ -1,7 +1,7 @@
 #   Election_Analysis
 ##  Purpose of the Analysis
 
-A Colorado election review commission is performing an election audit and has requested help with analyzing the data.  A file of unsummarized election data was presented in a .csv file.  Specifically, they've requested this data: 
+A Colorado election review commission is performing an election audit and has requested out help with analyzing the data.   A file of unsummarized election data was presented in a .csv file.  Specifically, they've requested this data: 
 * The voter turnout for each county
 * The percentage of votes from each county out of the total count
 * The county with the highest turnout
@@ -19,7 +19,7 @@ A Colorado election review commission is performing an election audit and has re
 
 
 #### 3. Which county had the largest number of votes?
-   ###  Denver county had the largest number of votes (306,055)  
+   ###  Denver county had the largest number of votes at 306,055 
   
 
 #### 4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
@@ -32,7 +32,9 @@ A Colorado election review commission is performing an election audit and has re
    ### Winning Percentage: 73.8%
 
 >
-### Election_Audit Summary and recommendations:  
+
+## Summary and recommendations:  
+>
 
 
 To do......
